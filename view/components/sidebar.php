@@ -17,7 +17,8 @@
             </div>
             <!-- Sidenav Nav -->
             <ul class="sidenav-nav ps-0">
-                <li><a href="page-home.html"><i class="bi bi-house-door"></i>Soal</a></li>
+                <li><a href="soal.php"><i class="bi bi-house-door"></i>Soal</a></li>
+                <li><a href="kelompok.php"><i class="bi bi-house-door"></i>Kelompok</a></li>
                 <li>
                     <div class="night-mode-nav"><i class="bi bi-moon"></i>Night Mode
                         <div class="form-check form-switch">
